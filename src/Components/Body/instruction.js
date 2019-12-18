@@ -29,9 +29,7 @@ function Component() {
       </li>
       <li>
         Nếu có thắc mắc hay gặp sự cố tham gia room bạn hãy email cho mình qua{" "}
-        <a href="mailto:OnlineEslTutoringRoom@gmail.com">
-          OnlineEslTutoringRoom@gmail.com
-        </a>
+        <a href="mailto:oesltr@gmail.com">oesltr@gmail.com</a>
       </li>
     </ol>
   ];

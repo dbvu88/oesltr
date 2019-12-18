@@ -11,6 +11,7 @@ function Component() {
       <h5 className="my-0 mr-md-auto font-weight-normal">
         Online ESL Tutoring Room
       </h5>
+      <small>Non-Profit Organization</small>
     </nav>
   );
 }
